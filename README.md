@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=33F709&center=true&vCenter=true&width=900&lines=Hello+World%2C+I'm+Tomas!+)](https://git.io/typing-svg)
+
+<hr>
+
 ### Hi there 👋
 
 <!--
