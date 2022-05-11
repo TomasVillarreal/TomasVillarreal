@@ -12,7 +12,11 @@
 - 📚 Student at [UTN](https://www.frc.utn.edu.ar) 
 
 <br>
-<br>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/TomzVillarreal?color=%231DA1F2&logo=twitter&style=for-the-badge)<a href="https://www.instagram.com/tomas_villarreal1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+![GitHub followers](https://img.shields.io/github/followers/tomzvilla?color=%23181717&logo=github&style=for-the-badge)
+<a href="https://www.linkedin.com/in/tomas-villarreal-883526197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ## ⚙ Technologies
 
@@ -42,16 +46,15 @@
 
 ## 💬Connect with me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TomasVillarreal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomas-villarreal-883526197/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tomas_villarreal1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/home) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/208072597768765443)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TomasVillarreal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomas-villarreal-883526197/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tomas_villarreal1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TomzVillarreal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/208072597768765443)  
 
 ## My work!
 
 <h3 align="center">✨ LINKS ✨</h3>
 <p align="center"> <a href="https://tomzvilla.github.io/tejidos-artesanales/">Plushes Startup</a></p>
-<hr>
 
 ## Currently listening:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=novatorem&bar_color=41d33c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **TomasVillarreal/TomasVillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
