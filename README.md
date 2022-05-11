@@ -44,7 +44,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TomasVillarreal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomas-villarreal-883526197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tomas_villarreal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/home)  
 
-          
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **TomasVillarreal/TomasVillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
