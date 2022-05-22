@@ -55,8 +55,8 @@
 ## My work!
 
 <h3 align="center">✨ LINKS ✨</h3>
-<p align="center"> <a href="https://tomzvilla.github.io/tejidos-artesanales/">Plushes Startup</a></p>
-<p align="center"> <a href="https://tomzvilla.github.io/weather-app/">Weather App</a></p>
+<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/tejidos-artesanales/">Plushes Startup</a></p>
+<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/weather-app/">Weather App</a></p>
 
 ## Currently listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=novatorem&bar_color=41d33c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
