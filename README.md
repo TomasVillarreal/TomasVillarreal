@@ -5,8 +5,8 @@
 
 <img align="right" height="150" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-- 🔭 Currently i'm taking Coderhouse's web development course
-- 🌱 Learning JavaScript, Typescript and Angular
+- 🔭 Currently i'm taking a React course
+- 🌱 Learning React, Firebase
 - 📢 My next goal: Learn backend
 - 👓 Looking to start my first job
 - 📚 Student at [UTN](https://www.frc.utn.edu.ar) 
@@ -41,6 +41,10 @@
 <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
+<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+                    
 
 <br>
 <br>
