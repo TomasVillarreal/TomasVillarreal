@@ -13,10 +13,8 @@
 
 <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/TomzVillarreal?color=%231DA1F2&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/tomzvilla?color=%23181717&logo=github&style=for-the-badge)
 
-<a href="https://www.instagram.com/tomas_villarreal1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/tomas-villarreal-883526197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
