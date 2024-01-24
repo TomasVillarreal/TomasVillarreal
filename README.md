@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=33F709&center=true&vCenter=true&width=900&lines=Hello+World%2C+I'm+Tomas!++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-# Software engineer student, programmer, coffee lover (☕♥)
+# Software engineer, programmer, coffee lover (☕♥)
 
 <img align="right" height="150" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-- 🔭 Currently i'm taking a React course
-- 🌱 Learning React, Firebase
+- 🔭 Currently i'm taking a DevOps course
+- 🌱 Learning NodeJS
 - 📢 My next goal: Learn backend
-- 👓 Looking to start my first job
-- 📚 Student at [UTN](https://www.frc.utn.edu.ar) 
+- 👓 Looking to start new journeys
+- 💻 DevOps intern at [PSI - UNC](https://www.unc.edu.ar/informatica)
+- 📚 Bachelor of Software Engineering at [UTN - FRC](https://www.frc.utn.edu.ar)
 
 <br>
 
@@ -42,6 +43,10 @@
 
 <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
+<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                     
 
 <br>
@@ -67,19 +72,6 @@
 
 ## Currently listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=novatorem&bar_color=41d33c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<!--
-**TomasVillarreal/TomasVillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [twitter]:https://twitter.com/home
 [instagram]: https://www.instagram.com/tomas_villarreal1/
