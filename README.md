@@ -5,11 +5,11 @@
 
 <img align="right" height="150" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-- 🔭 Currently i'm taking a DevOps course
-- 🌱 Learning NodeJS
-- 📢 My next goal: Learn backend
+- 🔭 Currently i'm taking a Java & Spring Course
+- 🌱 Learning Java
+- 📢 My next goal: Learn backend with Java
 - 👓 Looking to start new journeys
-- 💻 DevOps intern at [PSI - UNC](https://www.unc.edu.ar/informatica)
+- 💻 Fullstack Developper at [PSI - UNC](https://www.unc.edu.ar/informatica)
 - 📚 Bachelor of Software Engineering at [UTN - FRC](https://www.frc.utn.edu.ar)
 
 <br>
@@ -63,13 +63,12 @@
 
 <h3 align="center">✨ LINKS ✨</h3>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/wordle/">Wordle</a></p>
+<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/sorting-algorithm-visualizer/">Sorting Algorithms Visualizer</a></p>
 <p align="center"> <a target="_blank" href="https://thedojosite-80d90.web.app">Project Management Site</a></p>
 <p align="center"> <a target="_blank" href="https://mymoney-3bcac.web.app">Finance Tracker</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/tejidos-artesanales/">Plushes Startup</a></p>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/weather-app/">Weather App</a></p>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/countdown-timer/">Countdown Timer</a></p>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/magic-memory/">Magic Memory Game</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/coder-ecommerce/">Coder E-Commerce</a></p>
 
 ## Currently listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=novatorem&bar_color=41d33c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
