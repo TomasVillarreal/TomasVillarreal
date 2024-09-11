@@ -62,6 +62,7 @@
 ## My work!
 
 <h3 align="center">✨ LINKS ✨</h3>
+<p align="center"> <a target="_blank" href="https://tomzv.netlify.app">My Portfolio</a></p>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/wordle/">Wordle</a></p>
 <p align="center"> <a target="_blank" href="https://tomzvilla.github.io/sorting-algorithm-visualizer/">Sorting Algorithms Visualizer</a></p>
 <p align="center"> <a target="_blank" href="https://thedojosite-80d90.web.app">Project Management Site</a></p>
